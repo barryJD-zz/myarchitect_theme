@@ -1,6 +1,6 @@
-# Welcome to BarryJD Git Hub page
+# Welcome to Barry Davolt's Git Hub page
 
-Learn more:  
+# _Learn more:_  
 
 ## [Resume](https://www.linkedin.com/in/barry-davolt-4472a04/0)
 
@@ -9,7 +9,8 @@ Learn more:
 ## Interests
 
 
-# For more details contact me directly @
+# Contac me @
+
 Contact method | Details
 ------------ | -------------
 Cell | 314-323-7093
