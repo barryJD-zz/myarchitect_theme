@@ -1,4 +1,4 @@
-# Welcome to Barry Davolt's Git Hub page
+# Welcome, 
 
 # _Learn more:_  
 
@@ -11,7 +11,7 @@
 
 # Contact me @
 
-Contact method | Details
+*Contact method* | *Details*
 ------------ | -------------
 Cell | 314-323-7093
 Email | barry.davolt@gmail.com
