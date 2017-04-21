@@ -9,7 +9,7 @@
 ## Interests
 
 
-# Contac me @
+# Contact me @
 
 Contact method | Details
 ------------ | -------------
